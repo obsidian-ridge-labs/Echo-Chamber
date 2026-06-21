@@ -1,4 +1,4 @@
-# Echo Chamber — Private Offline AI Transcription
+# Echo Chamber: Private Offline AI Transcription
 
 **Echo Chamber** records, transcribes, and summarizes meetings entirely on your iPhone, iPad, Mac, and Apple Watch. Every word is processed on-device. No cloud, no accounts, no data collection.
 
